@@ -5,7 +5,6 @@
 @author: betty
 @description:中文转数字
 """
-
 from  bin.num_dict import CN_NUM,CN_UNIT
 def chinese_to_arabic(cn:str) -> int:
     unit = 0   # current
