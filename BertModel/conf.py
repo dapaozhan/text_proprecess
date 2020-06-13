@@ -6,7 +6,7 @@
 
 import os
 
-# path of BERT model    hhhhh
+# path of BERT model    hhh
 file_path = os.path.dirname (__file__)
 # file_path = file_path.replace ('conf', '') + 'Data'
 model_dir = os.path.join (file_path, 'Data/chinese_L-12_H-768_A-12/')
