@@ -1,4 +1,4 @@
-###该代码结构为
+### 该代码结构为
 
     D:\NLP_CHARDEAL
     │  convert_pinyin.py    #将中文转为拼音
@@ -21,7 +21,7 @@
                 bert_model.ckpt.index
                 bert_model.ckpt.meta
                 vocab.txt
-###该代码满足的功能有：
+### 该代码满足的功能有：
 
 1、文本转拼音
 ```python
@@ -133,7 +133,7 @@ from src.ChineseToArabic import chinese_to_arabic
 print(chinese_to_arabic('五百二十'))
 Out[69]:520
 ```
-###需要的包以及版本
+### 需要的包以及版本
 
 | 包名      | 版本 |
 | --------- | -----:|
@@ -148,3 +148,4 @@ Out[69]:520
 | jieba      |     0.42.1  |
 | translate      |      3.5.0  |
 
+微信公众号：屁屁和铭仔的数据之路
